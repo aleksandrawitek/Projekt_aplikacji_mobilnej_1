@@ -15,6 +15,7 @@ Aplikacja do pomiaru kalorii oraz kalkulator (np. bmi, przemiany materii itp)
 
 ### Funkcjonalości
 
+- [ ] przejrzyste GUI z własnymi grafikami, menu, float buttonami itp.
 - [ ] stałe połączenie z kiloma bazami danych (Google Firebase)
 - [ ] konto użytkownika - wraz z możliwością przeglądania historii wpisów
 - [ ] rejestracja/logowania się za pomocą różnych platform lub adresu email
