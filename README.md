@@ -10,9 +10,17 @@ Aplikacja do pomiaru kalorii oraz kalkulator (np. bmi, przemiany materii itp)
 
 - Java
 - Android Studio
-- Google Cloud 
+- Google Cloud
+- Canva (grafiki) 
 
 ### Funkcjonalości
 
 - [ ] stałe połączenie z kiloma bazami danych (Google Firebase)
-- 
+- [ ] konto użytkownika - wraz z możliwością przeglądania historii wpisów
+- [ ] rejestracja/logowania się za pomocą różnych platform lub adresu email
+- [ ] edytowania danych użytkownika oraz usuwanięcie konta (CRUD)
+- [ ] baza danych z produktami, dostępna dla każdego użytkownika
+- [ ] zczytywanie produktu po kodzie kreskowym (przy użyciu aparatu)
+- [ ] odpowiednie przeliczenie kcal w zależności od wpisamej gramatury
+
+
